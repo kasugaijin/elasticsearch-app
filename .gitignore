@@ -27,3 +27,5 @@ Gemfile.lock
 
 # Ignore macOS generated files
 .DS_Store
+
+/tmp
