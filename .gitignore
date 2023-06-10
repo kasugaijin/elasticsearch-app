@@ -1,0 +1,29 @@
+# Ignore bundler files
+Gemfile.lock
+
+# Ignore the default SQLite database
+/db/*.sqlite3
+
+# Ignore the PostgreSQL database
+/db/*.sql
+
+# Ignore generated assets
+/public/assets/
+
+# Ignore local application configuration files
+/config/application.yml
+
+# Ignore log files
+/log/*.log
+
+# Ignore system-specific files
+/coverage/
+/.env
+/.env.*
+/.byebug_history
+
+# Ignore credentials
+/config/master.key
+
+# Ignore macOS generated files
+.DS_Store
