@@ -1,24 +1,4 @@
 # README
+This rails app is based on this [tutorial](https://www.honeybadger.io/blog/rails-elasticsearch/)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+I wanted to learn more about integrating ElasticSearch with a rails application.
