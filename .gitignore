@@ -29,3 +29,4 @@ Gemfile.lock
 .DS_Store
 
 /tmp
+/dataset
