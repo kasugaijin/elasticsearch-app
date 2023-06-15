@@ -4,7 +4,7 @@ class SongsController < ApplicationController
   # GET /songs
   def index
     query = params["query"] || ""
-    res = Song.search_and_boost_artist(query)
+    res = Song.search_multiple_fields(query)
     render json: res.response["hits"]["hits"]
   end
 
